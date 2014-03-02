@@ -5,13 +5,7 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
 ユニットテスト初学者がまとめた内容のため、誤った解釈など不備があるかも知れません。  
 加筆・修正は適宜行う予定です。   
 
-<a name="outline"></a>
-## アウトライン
-1. [ツール](#tools)
-1. [Tips](#tips)
-
-<a name="tools"></a>
-### ツール
+## ツール
 ユニットテストで導入したツールについてまとめます。
 
 1. [Robolectric](#robolectric)
@@ -26,9 +20,8 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
  * []()
 1. [EclEmma](#eclemma)
  * []()
- 
-<a name="tips"></a>
-### Tips
+
+## Tips
 あくまで個人的なユニットテストに関するTipsです。
 
 1. [全般](#todo)
