@@ -8,15 +8,18 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
 ## ツール
 ユニットテストで導入したツールについてまとめます。
 
-1. [Robolectric](#robolectric)
+1. [Robolectric](../../wiki/Robolectric)
  * [ユニットテストの課題](../../wiki/Robolectric#wiki-problem_with_unit_test)
  * [AndroidTestCaseとの比較](../../wiki/Robolectric#wiki-comparison_tools)
  * [Robolectricの例](../../wiki/Robolectric#wiki-example)
  * [Shadowオブジェクト](../../wiki/Robolectric#wiki-shadow_object)
  * [カスタムShadow](../../wiki/Robolectric#wiki-custom_shadow)
+1. [FEST](../../wiki/FEST)
+ * [アサーションとは](../../wiki/FEST#wiki-assertion)
+ * [アサーションの比較](../../wiki/FEST#wiki-comparison)
+ * [Android FEST](../../wiki/FEST#wiki-fest_android)
+ * [カスタムアサーション](../../wiki/FEST#wiki-custom_assertion)
 1. [Mockito](#mockito)
- * []()
-1. [FEST](#fest)
  * []()
 1. [EclEmma](#eclemma)
  * []()
