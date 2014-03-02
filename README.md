@@ -24,19 +24,19 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
  * [出来ないこと](../../wiki/Mockito#wiki-impossible_things)
  * [簡単な例](../../wiki/Mockito#wiki-simple_example)
  * [便利な機能](../../wiki/Mockito#wiki-useful_features)
-1. [EclEmma](#eclemma)
+1. [EclEmma](#todo)
  * []()
 
 ## Tips
 あくまで個人的なユニットテストに関するTipsです。
 
-1. [全般](#todo)
- 1. [テストメソッドの命名](#todo)
- 1. [テストメソッドの整理](#todo)
- 1. [テストクラスの整理](#todo)
- 1. [privateフィールドの検証](#todo)
- 1. [privateメソッドのテスト](#todo)
- 1. [パラメータ化テスト](#todo)
+1. [全般](../../wiki/Tips-General)
+ 1. [テストメソッドの命名](../../wiki/Tips-General#wiki-method_naming)
+ 1. [テストメソッドの整理](../../wiki/Tips-General#wiki-organize_test_methods)
+ 1. [テストクラスの整理](../../wiki/Tips-General#wiki-organize_test_classes)
+ 1. [privateフィールドの検証](../../wiki/Tips-General#wiki-verify_private_fields)
+ 1. [privateメソッドのテスト](../../wiki/Tips-General#wiki-test_private_methods)
+ 1. [パラメータ化テスト](../../wiki/Tips-General#wiki-parameterized_test)
 1. [例外](#todo)
 1. [通信](#todo)
 1. [データベース](#todo)
