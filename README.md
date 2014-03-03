@@ -15,10 +15,10 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
 ### 環境構築
 環境構築の方法についてまとめます。各種ライブラリについては[後述](#library)します。
 
-1. [プロジェクトの作成](../../wiki/環境構築/#wiki-create_project)
-1. [ライブラリの追加](../../wiki/環境構築#wiki-add_library)
-1. [実行構成の設定](../../wiki/環境構築#wiki-run_configuration)
-1. [テストの作成と実行](../../wiki/環境構築#wiki-write_unit_test)
+1. [プロジェクトの作成](../../wiki/Environment/#wiki-create_project)
+1. [ライブラリの追加](../../wiki/Environment#wiki-add_library)
+1. [実行構成の設定](../../wiki/Environment#wiki-run_configuration)
+1. [テストの作成と実行](../../wiki/Environment#wiki-write_unit_test)
 
 <a name="library"></a>
 ### ライブラリ
