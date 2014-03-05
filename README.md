@@ -45,7 +45,7 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
 ### Tips
 あくまで個人的なユニットテストに関するTipsです。
 
-1. [全般](../../wiki/Tips:全般)
+1. [全般](../../wiki/Tips:General)
  * [テストメソッドの命名](../../wiki/Tips:General#wiki-method_naming)
  * [テストメソッドの整理](../../wiki/Tips:General#wiki-organize_test_methods)
  * [テストクラスの整理](../../wiki/Tips:General#wiki-organize_test_classes)
