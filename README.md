@@ -58,7 +58,8 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
  * [HttpClientの制御](../../wiki/Tips:通信#wiki-stub_http_client)
  * [HttpURLConnectionの制御](../../wiki/Tips:通信#wiki-stub_http_url_connection)
 1. [データベース](#todo)
-1. [非同期処理](#todo)
+1. [非同期処理](../../wiki/Tips:Asynchronous)
+ * [非同期処理の検証](../../wiki/Tips:Asynchronous#wiki-verify_async_process)
 1. [Android](#todo)
 
 ## 参考資料
