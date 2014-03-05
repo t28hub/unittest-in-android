@@ -53,7 +53,7 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
  * [privateメソッドのテスト](../../wiki/Tips:General#wiki-test_private_methods)
  * [パラメータ化テスト](../../wiki/Tips:General#wiki-parameterized_test)
 1. [例外](#todo)
-1. [通信](../../wiki/Tips:通信)
+1. [通信](../../wiki/Tips:Connection)
  * [通信状態の変更](../../wiki/Tips:Connection#wiki-change_connection_state)
  * [HttpClientの制御](../../wiki/Tips:Connection#wiki-stub_http_client)
  * [HttpURLConnectionの制御](../../wiki/Tips:Connection#wiki-stub_http_url_connection)
