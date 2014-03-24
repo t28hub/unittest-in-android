@@ -67,7 +67,9 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
  * [ログ出力先の変更](../../wiki/UnitTest-Tips-Log#wiki-change_log_output)
  * [ログ出力の検証](../../wiki/UnitTest-Tips-Log#wiki-verify_log_output)
  * [LogItemのアサーション](../../wiki/UnitTest-Tips-Log#wiki-assert_log_item)
-1. [Android](#todo)
+1. [Activity](../../wiki/UnitTest-Tips-Activity)
+ * [Activityライフサイクルの制御](../../wiki/UnitTest-Tips-Activity#wiki-activity_lifecycle)
+ * [Activityの起動検証](../../wiki/UnitTest-Tips-Activity#wiki-verify_starting_activity)
 
 ## 参考資料
 参考にさせて頂いた資料の一覧です。  
