@@ -30,13 +30,13 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
 * [Robolectricの例](../../wiki/2.1.-Robolectric#wiki-example)
 * [Shadowオブジェクト](../../wiki/2.1.-Robolectric#wiki-shadow_object)
 * [カスタムShadow](../../wiki/2.1.-Robolectric#wiki-custom_shadow)
-* 
+
 #### [2.2. FEST](../../wiki/2.2.-FEST)
  * [アサーションとは](../../wiki/2.2.-FEST#wiki-assertion)
  * [アサーションの比較](../../wiki/2.2.-FEST#wiki-comparison)
  * [Android FEST](../../wiki/2.2.-FEST#wiki-fest_android)
  * [カスタムアサーション](../../wiki/2.2.-FEST#wiki-custom_assertion)
- * 
+
 #### [2.3. Mockito](../../wiki/2.3.-Mockito)
  * [テストダブルとは](../../wiki/2.3.-Mockito#wiki-test_double)
  * [出来ないこと](../../wiki/2.3.-Mockito#wiki-impossible_things)
