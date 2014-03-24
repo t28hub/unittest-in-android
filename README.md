@@ -12,37 +12,37 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
 1. [Tips](#tips)
 
 <a name="environment"></a>
-### 環境構築
+### 1. 環境構築
 環境構築の方法についてまとめます。各種ライブラリについては[後述](#library)します。
 
-1. [プロジェクトの作成](../../wiki/Environment/#wiki-create_project)
-1. [ライブラリの追加](../../wiki/Environment#wiki-add_library)
-1. [実行構成の設定](../../wiki/Environment#wiki-run_configuration)
-1. [テストの作成と実行](../../wiki/Environment#wiki-write_unit_test)
+#### [1.1. プロジェクトの作成](../../wiki/Environment/#wiki-create_project)
+#### [1.2. ライブラリの追加](../../wiki/Environment#wiki-add_library)
+#### [1.3. 実行構成の設定](../../wiki/Environment#wiki-run_configuration)
+#### [1.4. テストの作成と実行](../../wiki/Environment#wiki-write_unit_test)
 
 <a name="library"></a>
-### ライブラリ
-ユニットテストで導入したライブラリについてまとめます。
+### 2. ライブラリ
+ユニットテストで導入したライブラリやプラグインについてまとめます。
 
-1. [Robolectric](../../wiki/Robolectric)
- * [ユニットテストの課題](../../wiki/Robolectric#wiki-problem_with_unit_test)
- * [AndroidTestCaseとの比較](../../wiki/Robolectric#wiki-comparison_tools)
- * [Robolectricの例](../../wiki/Robolectric#wiki-example)
- * [Shadowオブジェクト](../../wiki/Robolectric#wiki-shadow_object)
- * [カスタムShadow](../../wiki/Robolectric#wiki-custom_shadow)
-1. [FEST](../../wiki/FEST)
- * [アサーションとは](../../wiki/FEST#wiki-assertion)
- * [アサーションの比較](../../wiki/FEST#wiki-comparison)
- * [Android FEST](../../wiki/FEST#wiki-fest_android)
- * [カスタムアサーション](../../wiki/FEST#wiki-custom_assertion)
-1. [Mockito](../../wiki/Mockito)
- * [テストダブルとは](../../wiki/Mockito#wiki-test_double)
- * [出来ないこと](../../wiki/Mockito#wiki-impossible_things)
- * [簡単な例](../../wiki/Mockito#wiki-simple_example)
- * [便利な機能](../../wiki/Mockito#wiki-useful_features)
+#### [2.1. Robolectric](../../wiki/2.1.-Robolectric)
+* [ユニットテストの課題](../../wiki/2.1.-Robolectric#wiki-problem_with_unit_test)
+* [AndroidTestCaseとの比較](../../wiki/2.1.-Robolectric#wiki-comparison_tools)
+* [Robolectricの例](../../wiki/2.1.-Robolectric#wiki-example)
+* [Shadowオブジェクト](../../wiki/2.1.-Robolectric#wiki-shadow_object)
+* [カスタムShadow](../../wiki/2.1.-Robolectric#wiki-custom_shadow)
+#### [2.2. FEST](../../wiki/2.2.-FEST)
+ * [アサーションとは](../../wiki/2.2.-FEST#wiki-assertion)
+ * [アサーションの比較](../../wiki/2.2.-FEST#wiki-comparison)
+ * [Android FEST](../../wiki/2.2.-FEST#wiki-fest_android)
+ * [カスタムアサーション](../../wiki/2.2.-FEST#wiki-custom_assertion)
+#### [2.3. Mockito](../../wiki/2.3.-Mockito)
+ * [テストダブルとは](../../wiki/2.3.-Mockito#wiki-test_double)
+ * [出来ないこと](../../wiki/2.3.-Mockito#wiki-impossible_things)
+ * [簡単な例](../../wiki/2.3.-Mockito#wiki-simple_example)
+ * [便利な機能](../../wiki/2.3.-Mockito#wiki-useful_features)
 
 <a name="tips"></a>
-### Tips
+### 3. Tips
 あくまで個人的なユニットテストに関するTipsです。
 
 1. [全般](../../wiki/UnitTest-Tips-General)
