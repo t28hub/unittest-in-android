@@ -72,6 +72,10 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
  * [Activityの起動検証](../../wiki/UnitTest-Tips-Activity#wiki-verify_starting_activity)
 1. [Widget](../../wiki/UnitTest-Tips-Widget)
  * [ウィジェットの生成](../../wiki/UnitTest-Tips-Widget#create_app_widget)
+1. [Service](../../wiki/UnitTest-Tips-Service)
+ * [Serviceライフサイクルの制御](../../wiki/UnitTest-Tips-Service#wiki-service_lifecycle)
+ * [Serviceの起動検証](../../wiki/UnitTest-Tips-Service#wiki-verify_starting_service)
+ * [Serviceの停止検証](../../wiki/UnitTest-Tips-Service#wiki-verify_stopping_service)
 
 ## 参考資料
 参考にさせて頂いた資料の一覧です。  
