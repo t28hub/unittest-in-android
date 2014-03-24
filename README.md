@@ -70,6 +70,8 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
 1. [Activity](../../wiki/UnitTest-Tips-Activity)
  * [Activityライフサイクルの制御](../../wiki/UnitTest-Tips-Activity#wiki-activity_lifecycle)
  * [Activityの起動検証](../../wiki/UnitTest-Tips-Activity#wiki-verify_starting_activity)
+1. [Widget](../../wiki/UnitTest-Tips-Widget)
+ * [ウィジェットの生成](../../wiki/UnitTest-Tips-Widget#create_app_widget)
 
 ## 参考資料
 参考にさせて頂いた資料の一覧です。  
