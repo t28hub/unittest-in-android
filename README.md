@@ -45,13 +45,16 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
 ### Tips
 あくまで個人的なユニットテストに関するTipsです。
 
-1. [全般](../../wiki/Tips:General)
- * [テストメソッドの命名](../../wiki/Tips:General#wiki-method_naming)
- * [テストメソッドの整理](../../wiki/Tips:General#wiki-organize_test_methods)
- * [テストクラスの整理](../../wiki/Tips:General#wiki-organize_test_classes)
- * [privateフィールドの検証](../../wiki/Tips:General#wiki-verify_private_fields)
- * [privateメソッドのテスト](../../wiki/Tips:General#wiki-test_private_methods)
- * [パラメータ化テスト](../../wiki/Tips:General#wiki-parameterized_test)
+1. [全般](../../wiki/UnitTest-Tips-General)
+ * [テストメソッドの命名](../../wiki/UnitTest-Tips-General#wiki-method_naming)
+ * [テストメソッドの整理](../../wiki/UnitTest-Tips-General#wiki-organize_test_methods)
+ * [テストクラスの整理](../../wiki/UnitTest-Tips-General#wiki-organize_test_classes)
+ * [privateフィールドの検証](../../wiki/UnitTest-Tips-General#wiki-verify_private_fields)
+ * [privateメソッドのテスト](../../wiki/UnitTest-Tips-General#wiki-test_private_methods)
+ * [void型メソッドのテスト](../../wiki/UnitTest-Tips-General#wiki-test_void_methods)
+ * [パラメータ化テスト](../../wiki/UnitTest-Tips-General#wiki-parameterized_test)
+ * [パラメータ化テストの整理](../../wiki/UnitTest-Tips-General#wiki-organize_parameterized_test)
+ * [定数の変更](../../wiki/UnitTest-Tips-General#wiki-change_constants)
 1. [例外](#todo)
 1. [通信](../../wiki/UnitTest-Tips-Connection)
  * [通信状態の変更](../../wiki/UnitTest-Tips-Connection#wiki-change_connection_state)
