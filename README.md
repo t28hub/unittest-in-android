@@ -112,3 +112,5 @@ JUnit実践入門に記載されていない内容を補うことが出来ます
 ユニットテストに関する基礎がわかりやすく解説されています。  
 1. [xUnit Test PatternsのTest Doubleパターン](http://goyoki.hatenablog.com/entry/20120301/1330608789)  
 テストダブルについてわかりやすく解説されています。
+1. [C0/C1/C2](http://blogs.wankuma.com/episteme/archive/2009/03/10/169420.aspx)
+ユニットテストのカバレッジ(C0/C1/C2)についてわかりやすく解説されています。
