@@ -112,7 +112,3 @@ JUnit実践入門に記載されていない内容を補うことが出来ます
 ユニットテストに関する基礎がわかりやすく解説されています。  
 1. [xUnit Test PatternsのTest Doubleパターン](http://goyoki.hatenablog.com/entry/20120301/1330608789)  
 テストダブルについてわかりやすく解説されています。
-
-<a name="todo"></a>
-## TODO
-そのうち書きます。  
