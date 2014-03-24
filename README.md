@@ -60,6 +60,10 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
 1. [非同期処理](../../wiki/UnitTest-Tips-Asynchronous)
  * [非同期処理の完了を待つ](../../wiki/UnitTest-Tips-Asynchronous#wiki-await_async_process)
  * [メインスレッドで実行する](../../wiki/UnitTest-Tips-Asynchronous#wiki-run_on_main_thread)
+1. [ログ](../../wiki/UnitTest-Tips-Log)
+ * [ログ出力先の変更](../../wiki/UnitTest-Tips-Log#wiki-change_log_output)
+ * [ログ出力の検証](../../wiki/UnitTest-Tips-Log#wiki-verify_log_output)
+ * [LogItemのアサーション](../../wiki/UnitTest-Tips-Log#wiki-assert_log_item)
 1. [Android](#todo)
 
 ## 参考資料
