@@ -80,6 +80,10 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
  * [ContentProviderの登録](../../wiki/UnitTest-Tips-ContentProvider#wiki-register_content_provider)
  * [ステートメントの取得](../../wiki/UnitTest-Tips-ContentProvider#wiki-get_statements)
  * [changeNotifyの検証](../../wiki/UnitTest-Tips-ContentProvider#wiki-verify_changes)
+1. [BroadcastReceiver](../../wiki/UnitTest-Tips-BroadcastReceiver)
+ * [BroadcastReceiverの登録確認](../../wiki/UnitTest-Tips-BroadcastReceiver#wiki-verify_registered)
+ * [特定のBroadcastReceiverの取得](../../wiki/UnitTest-Tips-BroadcastReceiver#wiki-get_receiver)
+ * [Intentの受け取り](../../wiki/UnitTest-Tips-BroadcastReceiver#wiki-receive_intents)
 
 ## 参考資料
 参考にさせて頂いた資料の一覧です。  
