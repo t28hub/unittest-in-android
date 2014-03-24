@@ -47,7 +47,7 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
 ### 3. Tips
 あくまで個人的なユニットテストに関するTipsです。
 
-1. [全般](../../wiki/UnitTest-Tips-General)
+#### [3.1. 全般](../../wiki/3.1.-全般)
  * [テストメソッドの命名](../../wiki/UnitTest-Tips-General#wiki-method_naming)
  * [テストメソッドの整理](../../wiki/UnitTest-Tips-General#wiki-organize_test_methods)
  * [テストクラスの整理](../../wiki/UnitTest-Tips-General#wiki-organize_test_classes)
@@ -57,7 +57,8 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
  * [パラメータ化テスト](../../wiki/UnitTest-Tips-General#wiki-parameterized_test)
  * [パラメータ化テストの整理](../../wiki/UnitTest-Tips-General#wiki-organize_parameterized_test)
  * [定数の変更](../../wiki/UnitTest-Tips-General#wiki-change_constants)
-1. [例外](#todo)
+
+#### [3.2. 例外](#todo)
 1. [通信](../../wiki/UnitTest-Tips-Connection)
  * [通信状態の変更](../../wiki/UnitTest-Tips-Connection#wiki-change_connection_state)
  * [HTTP通信の外部依存排除](../../wiki/UnitTest-Tips-Connection#wiki-stub_http_connection)
