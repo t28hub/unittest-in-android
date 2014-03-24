@@ -76,6 +76,10 @@ AndroidアプリケーションプロジェクトにRobolectricを利用した�
  * [Serviceライフサイクルの制御](../../wiki/UnitTest-Tips-Service#wiki-service_lifecycle)
  * [Serviceの起動検証](../../wiki/UnitTest-Tips-Service#wiki-verify_starting_service)
  * [Serviceの停止検証](../../wiki/UnitTest-Tips-Service#wiki-verify_stopping_service)
+1. [ContentProvider](../../wiki/UnitTest-Tips-ContentProvider)
+ * [ContentProviderの登録](../../wiki/UnitTest-Tips-ContentProvider#wiki-register_content_provider)
+ * [ステートメントの取得](../../wiki/UnitTest-Tips-ContentProvider#wiki-get_statements)
+ * [changeNotifyの検証](../../wiki/UnitTest-Tips-ContentProvider#wiki-verify_changes)
 
 ## 参考資料
 参考にさせて頂いた資料の一覧です。  
